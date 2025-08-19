@@ -24,7 +24,7 @@ El análisis se basó en un dataset que contiene datos de clientes de un mes en 
     * `matplotlib` / `seaborn`: Para la visualización de distribuciones, histogramas y matrices de correlación.
     * `sklearn` (scikit-learn): Para el preprocesamiento de datos (escalado), construcción de modelos de clasificación (`LogisticRegression`, `RandomForestClassifier`), evaluación de modelos (Accuracy, Precision, Recall) y clustering (`KMeans`).
     * `scipy.cluster.hierarchy`: Para la creación de dendrogramas.
-* **Jupyter Notebook:** Entorno interactivo para el desarrollo del análisis.
+* **Jupyter Notebook - VSCode:** Entornos interactivo para el desarrollo del análisis.
 
 ## Metodología y Análisis
 ### Parte 1: Análisis Exploratorio de Datos (EDA)
@@ -49,9 +49,6 @@ El análisis se basó en un dataset que contiene datos de clientes de un mes en 
     * Visualización de las distribuciones de características por clúster.
     * Cálculo de la **tasa de abandono para cada clúster** para identificar cuáles son propensos a irse y cuáles son leales.
 
-## Conclusiones y Recomendaciones para la Retención de Clientes
-*(Adapta esta sección con tus hallazgos reales y recomendaciones)*
-* Se identificaron **[Número] grupos objetivo** de clientes con alta probabilidad de abandono, caracterizados por [ej. menor tiempo de membresía, poca participación en clases grupales, contratos cortos].
 * Las **medidas recomendadas para reducir la rotación** incluyen:
     * **Programas de incentivo** para clientes con contratos de 1 mes o próximos a vencer.
  
